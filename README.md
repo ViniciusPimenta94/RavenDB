@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de Integração com RavenDB
 
 Este projeto .NET demonstra como conectar e interagir com uma instância do banco de dados RavenDB utilizando a biblioteca `Raven.Client`.
@@ -36,3 +37,7 @@ Este projeto .NET demonstra como conectar e interagir com uma instância do banc
 - `Program.cs` - Código principal de execução
 - `RavenDB.csproj` - Configuração do projeto
 - `bin/`, `obj/` - Diretórios de build (ignorados)
+=======
+# RavenDB
+Projeto em .NET que demonstra integração com o banco de dados documental RavenDB, incluindo operações básicas como inserção, leitura e atualização de documentos.
+>>>>>>> a0d127a5fd114c71572bf4ee36a20cc3dae76e41
