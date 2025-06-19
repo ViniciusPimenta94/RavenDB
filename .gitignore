@@ -1,0 +1,25 @@
+
+# Ignorar pastas e arquivos temporários do .NET e VS
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignorar arquivos de sistema
+*.DS_Store
+*.swp
+*.tmp
+
+# Ignorar arquivos de build cruzado
+*.dll
+*.exe
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# Ignorar publicações e pacotes
+*.nupkg
+publish/
